@@ -2,12 +2,12 @@
 
 ![Logo FC Fulbert](https://via.placeholder.com/200x200/FF6B35/FFFFFF?text=FC+FULBERT)
 
-**Fondé en :** 1985  
-**Couleurs :** Rouge et Blanc  
+**Fondé en :** 2005  
+**Couleurs :** Bleu foncé et Bleu clair  
 **Stade :** Stade Municipal Fulbert (Capacité : 2,500 places)  
-**Ville :** Dreux, France  
+**Ville :** Chartres, France  
 **Président :** Jean-Michel Dubois  
-**Entraîneur :** Patrick Martinez  
+**Entraîneur :** Kevin Ferrandon  
 
 ---
 
@@ -192,3 +192,4 @@ Avenue des Sports
 ---
 
 **"Ensemble vers la victoire !"** - Devise du FC Fulbert
+
