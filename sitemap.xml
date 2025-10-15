@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
-                      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <!-- Page d'accueil -->
   <url>
-    <loc>https://fcfulbert.github.io/FCFULBERT/index.html</loc>
+    <loc>https://fc-fulbert.app/index.html</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -15,7 +12,7 @@
 
   <!-- Page contact -->
   <url>
-    <loc>https://fcfulbert.github.io/FCFULBERT/html/contact.html</loc>
+    <loc>https://fc-fulbert.app/html/contact.html</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -23,7 +20,7 @@
 
   <!-- Page effectif -->
   <url>
-    <loc>https://fcfulbert.github.io/FCFULBERT/html/effectif.html</loc>
+    <loc>https://fc-fulbert.app/html/effectif.html</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
